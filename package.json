@@ -6,7 +6,7 @@
   "author": "Brian Hunley <brian.hunley@theperducogroup.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "eslint": "^4.16.0",
